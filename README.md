@@ -1,2 +1,2 @@
 # 2048
-Link http://pkdism.github.io/2048/
+http://pkdism.github.io/2048/
